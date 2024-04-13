@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+}
+
+.card {
+  background-color: white;
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 0 5px rgb(181, 180, 180);
+  margin: 25px;
+}
+
+.card img {
+  width: 200px;
+}
+
+.card > h3, p {
+  text-align: center;
+}

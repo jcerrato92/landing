@@ -1,0 +1,20 @@
+.footer {
+  background-color: rgb(66, 64, 64);
+  padding: 60px;
+  text-align: center;
+}
+
+.links a{
+  background-color: rgb(66, 64, 64);
+  border: none;
+}
+
+.links i{
+  display: flex;
+  background-color: rgb(66, 64, 64);
+  color: #1EDD88;
+}
+
+.footer p {
+  color: gray;
+}
